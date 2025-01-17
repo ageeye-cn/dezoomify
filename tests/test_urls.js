@@ -116,4 +116,16 @@ var test_urls = [
     url:
       "https://basemap.nationalmap.gov/arcgis/rest/services/USGSHydroCached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml",
   },
+  {
+    name: "pnav (catalog.shm.ru)",
+    url: "https://catalog.shm.ru/entity/OBJECT/2117418",
+  },
+  {
+    name: "pnav (collection.pushkinmuseum.art)",
+    url: "https://collection.pushkinmuseum.art/entity/OBJECT/77606",
+  },
+  {
+    name: "pnav (collection.ethnomuseum.ru)",
+    url: "https://collection.ethnomuseum.ru/entity/OBJECT/32945",
+  }
 ];
